@@ -1,3 +1,4 @@
+package Pr2;
 import java.io.Serializable;
 
 // Клас для зберігання параметрів і результатів обчислень
